@@ -1,0 +1,2 @@
+git init= the key word is used make the repository. 
+git add = It is used for add the existence folder .
