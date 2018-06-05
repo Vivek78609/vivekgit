@@ -1,2 +1,6 @@
-git init= the key word is used make the repository. 
-git add = It is used for add the existence folder .
+git init= the key word is used make the repository.Basically it creates a file that consists a file over they control it or tag it .   
+git add = It is used for add the existence folder thats in the repository folder.
+git status = it used for check the modifiction in the file that are existing in the repository folder.
+git commit = its used for check point .
+git log = it tells about the time when commits happens .
+git config = it used for tells to git hub their user name and git user email.  
